@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm William Robinson</h1>
-<h3 align="center">A passionate software developer from Newcastle upon Tyne</h3>
-
+<h3 align="center">A passionate software developer based in Newcastle upon Tyne</h3>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left"> </p>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 <h3 align="left">Frontend Development:</h3>
 <p align="left"> </p>
 <h3 align="left">Mobile App Development:</h3>
