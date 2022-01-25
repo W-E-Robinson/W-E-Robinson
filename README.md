@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Will Robinson</h1>
 <h3 align="center">A passionate software engineer based in Newcastle upon Tyne</h3>
 
-![Will's Github stats](https://github-readme-stats.vercel.app/api?username=W-E-Robinson&count_private=true&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/W-E-Robinson)  
 
 <h3 align="left">Programming languages:</h3>
 	<p align="left">
@@ -36,3 +36,8 @@
 		<a href="https://linkedin.com/in/william-robinson-01088520a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/william-robinson-01088520a" height="30" width="40" /></a>
 		<a href="https://stackoverflow.com/users/17192602/wrobinson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17192602/wrobinson" height="30" width="40" /></a>
 	</p>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=W-E-Robinson)
+
