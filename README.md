@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm Will Robinson</h1>
 <h3 align="center">A passionate software engineer based in Newcastle upon Tyne</h3>
 
+![Will's Github stats](https://github-readme-stats.vercel.app/api?username=W-E-Robinson&count_private=true&show_icons=true)
+
 <h3 align="left">Programming languages:</h3>
 	<p align="left">
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
