@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋 I'm Will Robinson</h1>
-<h3 align="center">A full stack software engineer based in Newcastle upon Tyne</h3>
+<h1 align="center">Hi 👋, I'm Will Robinson</h1>
+<h3 align="center">A (mostly backend) full-stack software engineer based in Newcastle upon Tyne</h3>
+
 
 <h3 align="left">Programming Languages:</h3>
 	<p align="left">
