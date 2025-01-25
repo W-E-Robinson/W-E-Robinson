@@ -29,4 +29,4 @@
 		<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
   	</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-E-Robinson&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-E-Robinson&layout=pie&langs_count=8)
