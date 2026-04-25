@@ -48,9 +48,15 @@
 
 <hr/>
 
-<p align="center">
-  <img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=W-E-Robinson&theme=nightowl" /> 
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-E-Robinson&layout=pie&langs_count=4&hide_title=true&theme=nightowl" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=W-E-Robinson&theme=nightowl" />
+    </td>
+    <td valign="middle">
+      <img height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-E-Robinson&layout=pie&langs_count=4&hide_title=true&theme=nightowl" />
+    </td>
+  </tr>
+</table>
 
 <hr/>
