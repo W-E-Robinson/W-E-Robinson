@@ -36,13 +36,3 @@
 </details>
 
 ![Top languages pie chart (probably lots of Rust and Lua)](https://github-readme-stats.vercel.app/api/top-langs/?username=W-E-Robinson&layout=pie&langs_count=4)
-
-```geojson
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-1.615, 54.972]
-  }
-}
-```
