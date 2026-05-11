@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
 
-<hr/>
-
 <div align="center">
   <details>
   <summary>Programming Languages</summary>
@@ -48,15 +46,15 @@
 
 <hr/>
 
-<table align="center">
-  <tr>
-    <td valign="middle">
-      <img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=W-E-Robinson&theme=nightowl" />
-    </td>
-    <td valign="middle">
-      <img height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-E-Robinson&layout=pie&langs_count=4&hide_title=true&theme=nightowl" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=W-E-Robinson&theme=nightowl" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <img height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-E-Robinson&layout=pie&langs_count=4&hide_title=true&theme=nightowl" alt="Pie chart of top languages, probably lots of Lua and Rust" />
+</div>
+
 
 <hr/>
