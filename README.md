@@ -57,8 +57,7 @@
 <hr/>
 
 <div align="center">
-  <img height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-E-Robinson&layout=pie&langs_count=4&hide_title=true&theme=nightowl" alt="Pie chart of top languages, probably lots of Lua and Rust" />
+  <img height="320px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=W-E-Robinson&layout=pie&langs_count=4&hide_title=true&theme=nightowl" alt="Pie chart of top languages, probably lots of Lua and Rust" />
 </div>
-
 
 <hr/>
