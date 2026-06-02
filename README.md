@@ -51,7 +51,7 @@
 <hr/>
 
 <div align="center">
-  <img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=W-E-Robinson&theme=nightowl" />
+  <img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=W-E-Robinson&theme=nightowl" alt="My GitHub streak stats" />
 </div>
 
 <hr/>
